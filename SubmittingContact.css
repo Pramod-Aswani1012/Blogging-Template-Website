@@ -1,0 +1,23 @@
+.container
+{
+    height: 50vh;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container h1
+{
+    padding: 20px;
+    font-size: 38px;
+}
+
+.container h3
+{
+    padding: 10px;
+    font-size: 29px;
+}
+
